@@ -9,5 +9,5 @@ In this project, the tele-communicaton dataset is used to figure out the reason 
 3. Suggest the customer retention strategy
 4. Build and Compare different Machine Learning Algorithms and find the best one
 
-#Results
+##  Results
 <img src="img_tree/result.png " alt="Result_Score" width="800"/>
